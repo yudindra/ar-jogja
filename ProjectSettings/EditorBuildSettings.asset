@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartupScene.unity
+    guid: b32f0198e1fed704b84afcdf34542298
+  - enabled: 1
+    path: Assets/Scenes/VideoLoop.unity
+    guid: 41f69d5bd3d668e4c8da24b9af80cf60
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: b091171aa0fa74c43a05aa86546ded0b
+  - enabled: 1
+    path: Assets/Scenes/Prolog.unity
+    guid: 0576fa34108b99c4a8d38354711fcbf2
+  - enabled: 0
+    path: Assets/Scenes/Perang1.unity
+    guid: 11953bdc1356d5140bd05c0642a8d5cc
+  - enabled: 1
+    path: Assets/Scenes/DapurProlog.unity
+    guid: 55dc0b5ca69ed3346b95ef193449f942
+  - enabled: 1
+    path: Assets/Scenes/Dapur.unity
+    guid: c83a1e4e1d25d994d8802bfc84bcd892
+  - enabled: 1
+    path: Assets/Scenes/MarkasProlog.unity
+    guid: 01561a8120b55c549bfd94f2ae994238
+  - enabled: 1
+    path: Assets/Scenes/Markas.unity
+    guid: 7b6252014301a044cb5e2f90a138a40f
+  - enabled: 1
+    path: Assets/Scenes/KlinikProlog.unity
+    guid: 3837cef3e75225541a85f537ec470868
+  - enabled: 1
+    path: Assets/Scenes/Klinik.unity
+    guid: a702bdcb071a36349971d1f03b2c1042
+  - enabled: 1
+    path: Assets/Scenes/Perang2Prolog.unity
+    guid: bf1a68d2b5d85264f89e7dc70c024e23
+  - enabled: 1
+    path: Assets/Scenes/perang3.unity
+    guid: ca464e05e5e00fe40badc2d7dee093ea
+  - enabled: 1
+    path: Assets/Scenes/perang21.unity
+    guid: 4bca34238102ed742aac2ca53cd1bc07
+  - enabled: 1
+    path: Assets/Scenes/perang22.unity
+    guid: 12ab2d2131031d34499aa596df920626
+  - enabled: 1
+    path: Assets/Scenes/Perang2.unity
+    guid: 34c19284916d6aa4887085d0a3f14315
